@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dema Namitha- Portfolio</title>
+  <style>
+    /* CSS styles for the portfolio website */
+    /* Add your own styles and customize as needed */
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1, h2 {
+      margin: 0;
+    }
+
+    main {
+      margin: 20px;
+    }
+
+    section {
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: #333;
+    }
+
+    ul {
+      padding: 0;
+      list-style-type: none;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Dema Namitha</h1>
+    <h2>Student | Web Developer</h2>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>
+        I am a student with a passion for coding and web development. Currently, I have experience in Java, Python, C, HTML, and CSS. I am eager to learn and expand my skills in the field of programming.
+      </p>
+    </section>
+
+    <section>
+      <h2>Accomplishments</h2>
+      <ul>
+        <li>Participated in a college-level hackathon</li>
+        <li>Created various web pages using front-end technologies</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <h3>College-Level Hackathon</h3>
+      <p>
+        In the hackathon, I worked with a team to develop a web application that aimed to solve a specific problem. I contributed to the front-end development using HTML, CSS, and JavaScript. Our project received recognition for its innovative approach and functionality.
+      </p>
+
+      <h3>Web Development Projects</h3>
+      <p>
+        I have created multiple web pages using HTML and CSS, focusing on clean and responsive designs. Some of the projects include personal portfolios, landing pages, and simple web applications.
+      </p>
+    </section>
+
+    <section>
+      <h2>Contact Me</h2>
+      <ul>
+        <li>Email: namithareddyswty@gmail.com</li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/namitha-reddy-b10597240">My Profile</a></li>
+        <li>GitHub: <a href="https://github.com/Namitha-dema10">My GitHub Profile</a></li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
